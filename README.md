@@ -1,4 +1,4 @@
-# Oi, eu sou a Sabrina! 👋
+# Olá, User! 👋
 ---
 
 ### 💻 Sobre mim
