@@ -10,8 +10,8 @@
 
 ## 💕 About Me
 
-I'm a Software Engineering student at IFSP who loves transforming ideas into real solutions.  
-Technology has been part of my life since childhood, and today I channel that passion into development, data, and innovation.
+I am a Software Engineering student at the Instituto Federal de São Paulo (IFSP) with a strong interest in turning ideas into practical and efficient solutions.
+Technology has been part of my journey from an early age, and today I channel that passion into development, data, and innovation, continuously striving for growth and meaningful impact through technology.
 
 🚀 Always learning  
 🤝 Open to collaboration  
@@ -53,6 +53,3 @@ Technology has been part of my life since childhood, and today I channel that pa
 
 ---
 
-<p align="center">
-  Made with dedication, curiosity, and a love for technology 💻💗
-</p>
