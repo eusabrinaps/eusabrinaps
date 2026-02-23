@@ -1,37 +1,58 @@
-# Olá, User! 👋
----
+<h1 align="center">Hi, I'm Sabrina Andrade 👩‍💻✨</h1>
 
-### 💻 Sobre mim
-
-- 🎓 Estudante de Engenharia de Software no IFSP.
-- 📍 Sou de Ribeirão Preto, mas estudo em São Carlos - SP.
-- 🌱 Me interesso por Tecnologia desde criança.
----
-
-### 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sabrina%20Andrade-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sabrina-andrade-318a5521a)
-[![E-mail](https://img.shields.io/badge/Email-eusabrinaps@gmail.com-red?style=flat-square&logo=gmail)](mailto:eusabrinaps@gmail.com)
+<p align="center">
+  🎓 Software Engineering Student <br>
+  📍 From Ribeirão Preto, studying in São Carlos - SP <br>
+  🌷 Passionate about Technology and continuous growth
+</p>
 
 ---
 
-### 🛠️ Tecnologias
+## 💕 About Me
 
+I'm a Software Engineering student at IFSP who loves transforming ideas into real solutions.  
+Technology has been part of my life since childhood, and today I channel that passion into development, data, and innovation.
+
+🚀 Always learning  
+🤝 Open to collaboration  
+🌸 Focused on growth and excellence  
+
+---
+
+## 🌐 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/sabrina-andrade-318a5521a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sabrina%20Andrade-ff69b4?logo=linkedin&style=for-the-badge" />
+  </a>
+  <a href="mailto:eusabrinaps@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-ff4d6d?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👩‍💻 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### ⚛️ Front-End
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+### 🗄️ Databases & Tools
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Data & Productivity
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-
-
-
+<p align="center">
+  Made with dedication, curiosity, and a love for technology 💻💗
+</p>
