@@ -5,7 +5,7 @@
 
 - 🎓 Estudante de Engenharia de Software no IFSP.
 - 📍 Sou de Ribeirão Preto, mas estudo em São Carlos - SP.
-- 🌱 Gosto de Tecnologia desde criança.
+- 🌱 Me interesso por Tecnologia desde criança.
 ---
 
 ### 📫 Como me encontrar
