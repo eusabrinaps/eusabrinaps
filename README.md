@@ -26,6 +26,13 @@ Technology has been part of my journey from an early age, and today I channel th
 
 ---
 
+# 🌎 Languages
+
+- 🇧🇷 Portuguese — Native  
+- 🇺🇸 English — Reading proficiency  
+
+---
+
 # 🌐 Let's Connect
 
 <p align="left">
@@ -44,47 +51,44 @@ Technology has been part of my journey from an early age, and today I channel th
 
 # 🛠️ Tech Stack
 
-## 👩‍💻 Languages
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java"/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="C#" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="TypeScript"/>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt=".NET"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
 
-## ⚛️ Front-End
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript"/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="React"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="NextJS"/>
 
-## 🗄️ Databases & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="PostgreSQL"/>
 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="60" alt="Oracle"/>
 
-![PgAdmin](https://img.shields.io/badge/PgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="Docker"/>
 
----
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="60" alt="AWS"/>
 
-## 📊 Data & Productivity
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+</p>
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eusabrinaps&show_icons=true&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=eusabrinaps&show_icons=true&theme=radical&cache_seconds=1800"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusabrinaps&layout=compact&theme=radical"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eusabrinaps&layout=compact&theme=radical&cache_seconds=1800"/>
 
 </p>
 
